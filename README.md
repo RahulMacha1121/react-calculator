@@ -1,5 +1,7 @@
 # React Calculator
 
+[Live Demo](https://RahulMacha1121.github.io/react-calculator)
+
 A simple and interactive calculator built with React. This calculator allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division. It supports both mouse and keyboard inputs for a seamless user experience.
 
 ## Features
